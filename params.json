@@ -1,0 +1,6 @@
+{
+  "name": "Strapwire",
+  "tagline": "A deliciously simple wireframing kit based on the Bootstrap 3 grid",
+  "body": "# Strapwire\r\n## A deliciously simple wireframing kit based on the Bootstrap 3 grid\r\n\r\n### Prerequisites\r\n\r\n1. Mac OS X 10.10+\r\n2. Sketch 3.8.2\r\n\r\n### How to use\r\n\r\n1. Clone this repo to your computer\r\n2. Download the required fonts: Lato and BLOKK\r\n3. Open the Sketch file\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
