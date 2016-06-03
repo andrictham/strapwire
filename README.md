@@ -1,7 +1,7 @@
 # Strapwire
 ## A deliciously simple wireframing kit based on the Bootstrap 3 grid
 
-![Strapwire lets you quickly wireframe in Sketch](https://raw.githubusercontent.com/andrictham/strapwire/master/readme-img.png)
+<img src="https://raw.githubusercontent.com/andrictham/strapwire/master/readme-img.png" width="350px" />
 
 ### Prerequisites
 
